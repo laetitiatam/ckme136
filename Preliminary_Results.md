@@ -1,6 +1,7 @@
 # Preliminary Results
  
 **Author**: Laetitia Tam
+
 **Date:** 2020-03-06
 
 See Data_Exploration_Modeling.ipynb for code and visualizations. 
