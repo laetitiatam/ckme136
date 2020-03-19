@@ -30,7 +30,7 @@ The dataset was assembled by combining three different datasets. This was perfor
 
 ### Run the model for a different time period
 
-The model was perfomed on only the most recent 5 years of data to test the performance and to limit processing time for the preliminary results. 
+The model was perfomed on only the most recent year of data to test the performance and to limit processing time for the preliminary results. 
 
 ### Try a different strategy to deal with the class imbalance. 
 
